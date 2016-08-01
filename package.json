@@ -1,0 +1,26 @@
+{
+  "name": "convert-stream",
+  "version": "1.0.0",
+  "description": "Convert stream in node.js to buffer or array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uzil/node-convert-stream.git"
+  },
+  "keywords": [
+    "convert",
+    "stream",
+    "streams",
+    "buffer",
+    "array"
+  ],
+  "author": "Kumar Ujjwal <ujjwal25993@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uzil/node-convert-stream/issues"
+  },
+  "homepage": "https://github.com/uzil/node-convert-stream#readme"
+}
