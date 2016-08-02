@@ -36,6 +36,6 @@ cs.toBuffer(yourStream)
 For converting to array
 ```js
 cs.toArray(yourStream)
-    .then((returnedBuffer) => { /*doSomething*/ })
+    .then((returnedArray) => { /*doSomething*/ })
     .catch(err, function doSomthingWithError(error) { /*do something*/ });
 ```
